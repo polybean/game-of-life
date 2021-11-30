@@ -1,0 +1,15 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "qunit": "^2.17.2"
+  },
+  "scripts": {
+    "test": "qunit"
+  },
+  "dependencies": {
+    "ramda": "^0.27.1"
+  }
+}
